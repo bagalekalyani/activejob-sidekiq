@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  username: MyString
+  string: MyString
+  email: MyString
+  string: MyString
+  bool_flag: MyString
+  boolean: MyString
+  current_time: MyString
+  datetime: MyString
+
+two:
+  username: MyString
+  string: MyString
+  email: MyString
+  string: MyString
+  bool_flag: MyString
+  boolean: MyString
+  current_time: MyString
+  datetime: MyString
