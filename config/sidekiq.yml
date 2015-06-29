@@ -1,8 +1,8 @@
 :concurrency: 25
-# :pidfile: ./tmp/pids/sidekiq.pid
-# :logfile: ./log/sidekiq.log
+:pidfile: ./tmp/pids/sidekiq.pid
+:logfile: ./log/sidekiq.log
 :queues:
   - default
   - normal
   - [high, 2]
-# :daemon: true
+:daemon: true
